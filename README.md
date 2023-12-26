@@ -1,4 +1,4 @@
-umber=6655
+
 import threading
 import time,os
 class low_level_deep_note():
